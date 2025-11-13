@@ -58,11 +58,16 @@ Use this checklist to bring the vault in line with Obsidian Publish best practic
 - Exception: retain current logo quality despite size > 500 KB; revisit if additional images are introduced or performance issues emerge.
 
 ## 4. Visual Styling & UX
-- [ ] Catalogue existing theme changes and CSS snippets
-- [ ] Define the callout palette (name, purpose, icon) and document usage guidelines
+- [x] Catalogue existing theme changes and CSS snippets
+- [x] Define the callout palette (name, purpose, icon) and document usage guidelines
 - [ ] Test published pages on mobile, tablet, and desktop for layout issues
 - [ ] Note typography or spacing tweaks to implement in `publish.css`
 - [ ] Plan accessibility checks (contrast, heading hierarchy, link clarity)
+
+### Styling review (2025-11-12)
+- Confirmed `publish.css` as the sole custom styling touchpoint; no additional snippets are active while `.obsidian` remains ignored from version control.
+- Documented active callouts (info, warning, tldr, gate) with icon assignments and usage notes in [[Callout Palette|Meta/Operations/Callout Palette]].
+- Pending responsive spot checks across breakpoints and deeper typography/accessibility tuning during subsequent passes.
 
 ## 5. SEO & Social Sharing
 - [ ] Set site-wide title, description, and custom domain (if applicable)
