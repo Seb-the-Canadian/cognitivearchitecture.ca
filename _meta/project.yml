@@ -1,0 +1,20 @@
+id: cognitivearchitecture_ca
+title: "cognitivearchitecture.ca"
+
+lichen: 200
+type: vault_project
+status: active
+
+tags:
+  - writing
+  - publication
+  - vault
+
+related:
+  - sebthecanadian_ca
+  - voice_profile
+up: []
+
+notes: |
+  Main public website vault.
+  Primary platform for public voice and publication.

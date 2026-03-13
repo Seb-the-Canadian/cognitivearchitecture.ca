@@ -1,0 +1,105 @@
+---
+created: 2026-02-10
+last_tended: 2026-02-16
+type: effort
+tags:
+  - stub
+up:
+  - "[[cognitivearchitecture_ca]]"
+---
+%% Begin Waypoint %%
+- **_meta**
+	- **98_archive**
+	- **almanac**
+		- [[ALMANAC-SETUP]]
+		- [[next]]
+		- [[pipeline]]
+	- **functional**
+		- [[ai_meta]]
+		- [[Efforts/cognitivearchitecture_ca/_meta/policy]]
+		- [[Publish Alignment Audit]]
+	- **Site Attachments**
+
+	- **templates**
+		- [[TEMPLATE - Core Note]]
+		- [[TEMPLATE - Related block]]
+	- [[Efforts/cognitivearchitecture_ca/_meta/ai]]
+	- [[Efforts/cognitivearchitecture_ca/_meta/policy]]
+	- [[README]]
+	- [[Tag Taxonomy]]
+- **Atlas**
+	- **[[Seeds]]**
+	- **The Almanac**
+		- **Claims**
+			- [[Capital cognitive capture is more novel threat than traditional automation.]]
+			- [[Data fluency is developmental, not binary; it cannot be mandated.]]
+			- [[Default decisions shape platform behaviour; most users never change defaults.]]
+			- [[Digital gardening is more sustainable than fast production.]]
+			- [[Hesitation is often valuable signal, not resistance to overcome.]]
+			- [[Human wisdom cannot be replaced by (Artificial) intelligence.]]
+			- [[In AI mediated work, employability becomes "legibility to the system plus proprietary context access"]]
+			- [[Knowledge fragmentation is solved by semantic bridges, not just tool consolidation or acquisition.]]
+			- [[Knowledge is personal and political; there is no objective enablement.]]
+			- [[Marginalized populations' experiences offer a crucial lens (on technology adoption).]]
+			- [[Metadata enables discovery; natural language enables understanding; both required.]]
+			- [[Organizations fail when they build technical capability before semantic clarity.]]
+			- [[Social opinion operates as enforcement mechanism of digital conformity.]]
+			- [[Systems are not neutral; every technical choice shapes what can be expressed.]]
+			- [[Technology should amplify human capacity for wisdom, connection, and flourishing.]]
+			- [[The most powerful questions in (digital) transformation  are "should we" and "why", not "can we".]]
+		- **[[Concepts]]**
+		- **Greenhouse (index)**
+			- [[Beyond the binary - data fluency over data literacy.]]
+			- [[Default Decisions - LinkedIn's 2025 AI Policy Update]]
+			- [[When Hesitation is Data - Rethinking AI Adoption Competency]]
+		- **Questions (index)**
+			- [[How can individuals or small orgs protect IP from cognitive capture?]]
+			- [[How can metadata and human-readable documentation work together?]]
+			- [[How do imagined societies, crises, and futures reveal hidden truths about power, freedom, and moral responsibility in our own world?]]
+			- [[How do individuals form moral judgement, and identity, within and sometimes against, social and historical structures?]]
+			- [[How do modern systems of capital, technology, and ideology capture power; and how might they be resisted, redirected, or reimagined?]]
+			- [[How do we build civic social digital infrastructure alternatives?]]
+			- [[How do we design systems that amplify human wisdom rather than replace it?]]
+			- [[How do we distinguish valuable hesitation from fear based resistance?]]
+			- [[How do we move organizations from extractive to stewardship models?]]
+			- [[How do we structure work to preserve wisdom while leveraging intelligence?]]
+			- [[How does architecture encode values and what alternative architectures exist?]]
+			- [[How to design systems that amplify rather than replace?]]
+			- [[What becomes scarce when AI can copy at scale?]]
+			- [[What broader historical and structural narratives help situate political philosophy within the evolution of civilization, governance, and design?]]
+			- [[What cultural, communicative, and systemic infrastructures sustain a truthful, cooperative, and self-correcting society?]]
+			- [[What does it mean to speak truth to power; and how can critique become a form of healing, renewal, and "rehumanization"?]]
+			- [[What does sustainable innovation look like?]]
+			- [[What would professional data governance look like if designed for user sovereignty?]]
+			- [[When do we build fluency capacity?]]
+		- **The Grove (index)**
+			- [[Concerning Capital Cognitive Capture]]
+		- **The Shed (index)**
+			- [[Architecture-Behaviour-Outcomes Model]]
+			- [[Dual-Mode Knowledge Model]]
+			- [[Partnership Compact — Core Values for AI Collaboration]]
+			- [[Setting up a prompt engineering project.]]
+			- [[The Socratic Prototyping Method]]
+		- [[Digital Gardens of the interwebs (a very narrow cross-section).]]
+	- [[Capability Development]]
+	- [[Cognitive Architecture & Knowledge Work]]
+	- [[Core Claims & Positions]]
+	- [[Cultural & Philosophical Grounding]]
+	- [[Digital Sovereignty & Infrastructure]]
+	- [[Governance & Power Dynamics]]
+	- [[Human Judgement & Wisdom]]
+	- [[Organizational Knowledge Systems]]
+	- [[Questions & Queries]]
+	- [[Technology Adoption & Change]]
+- [[About me]]
+- [[About the site]]
+- [[CLAUDE]]
+- [[Havelian Tenants]]
+- [[Home]]
+- [[Illichian Design Ethics]]
+- [[README]]
+- [[The Greenhouse]]
+- [[The Grove]]
+- [[The Shed]]
+
+%% End Waypoint %%
